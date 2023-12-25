@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\ProjetoEstacionamento\ProjetoEstacionamento\bin\Debug\ProjetoEstacionamento.exe.config
+C:\Users\User\source\repos\ProjetoEstacionamento\ProjetoEstacionamento\bin\Debug\ProjetoEstacionamento.exe
+C:\Users\User\source\repos\ProjetoEstacionamento\ProjetoEstacionamento\bin\Debug\ProjetoEstacionamento.pdb
+C:\Users\User\source\repos\ProjetoEstacionamento\ProjetoEstacionamento\obj\Debug\ProjetoEstacionamento.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ProjetoEstacionamento\ProjetoEstacionamento\obj\Debug\ProjetoEstacionamento.Form1.resources
+C:\Users\User\source\repos\ProjetoEstacionamento\ProjetoEstacionamento\obj\Debug\ProjetoEstacionamento.Properties.Resources.resources
+C:\Users\User\source\repos\ProjetoEstacionamento\ProjetoEstacionamento\obj\Debug\ProjetoEstacionamento.UserControls.UserControlMenu.resources
+C:\Users\User\source\repos\ProjetoEstacionamento\ProjetoEstacionamento\obj\Debug\ProjetoEstacionamento.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ProjetoEstacionamento\ProjetoEstacionamento\obj\Debug\ProjetoEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProjetoEstacionamento\ProjetoEstacionamento\obj\Debug\ProjetoEstacionamento.exe
+C:\Users\User\source\repos\ProjetoEstacionamento\ProjetoEstacionamento\obj\Debug\ProjetoEstacionamento.pdb
+C:\Users\User\source\repos\ProjetoEstacionamento\ProjetoEstacionamento\obj\Debug\ProjetoEstacionamento.UserControls.UserControlRegistroEntrada.resources
+C:\Users\User\source\repos\ProjetoEstacionamento\ProjetoEstacionamento\obj\Debug\ProjetoEstacionamento.UserControlGerenciarValores.resources
+C:\Users\User\source\repos\ProjetoEstacionamento\ProjetoEstacionamento\obj\Debug\ProjetoEstacionamento.UserControlListagem.resources
+C:\Users\User\source\repos\ProjetoEstacionamento\ProjetoEstacionamento\obj\Debug\ProjetoEstacionamento.UserControls.UserControlRegistroSaida.resources
