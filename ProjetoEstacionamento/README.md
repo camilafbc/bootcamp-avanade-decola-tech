@@ -1,10 +1,12 @@
 # 🅿 Projeto Estacionamento - .NET Desktop App
 
-<img align="center" width="80%" src="" />
-
 Repositório do projeto de Sistema de Estacionamento desenvolvido durante o Bootcamp Avanade Decola Tech 2024. Este aplicativo desktop foi criado no Visual Studio 2019 utilizando o .NET Framework 4.8. A seguir, você encontrará informações sobre o projeto, sua funcionalidade e como utilizá-lo.
 
-#Descrição do Projeto
+<div align="center">
+  <img width="80%" src="https://github.com/camilafbc/bootcamp-avanade-decola-tech/blob/main/ProjetoEstacionamento/to-readme.jpg?raw=true" />
+</div>
+
+# Descrição do Projeto
 O Projeto Estacionamento é uma aplicação desktop construída para gerenciar um estacionamento, permitindo ao usuário definir uma tarifa base e um valor por hora. As principais funcionalidades do sistema incluem:
 
 * Definição de Tarifas: O usuário pode configurar uma tarifa base e um valor por hora para o estacionamento.
