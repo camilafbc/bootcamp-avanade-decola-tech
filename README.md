@@ -1,19 +1,19 @@
-# <img width="100px" src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" />  Bootcamp Avanade Decola Tech 2024
+# <img width="80px" src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" />  Bootcamp Avanade Decola Tech 2024
 
 Repositório que armazena os desafios realizados durante o Bootcamp Avanade Decola Tech 2024, oferecido pela Avanade em parceria com a Digital Innovation One (DIO). Este programa proporcionou uma trilha educacional online focada em .NET, permitindo uma jornada completa desde os fundamentos até conceitos avançados, através da prática de projetos orientados por especialistas. A trilha completa totalizou 73 horas de aprendizado.
 
 ## Trilha Educacional
 Durante o Bootcamp, exploramos os pontos fundamentais para o desenvolvimento em .NET, como:
 
-* Lógica de Programação: Desenvolvemos habilidades fundamentais para a resolução de problemas e a construção de algoritmos eficientes.
+* Lógica de Programação
 
-* Fundamentos da Linguagem C#: Exploramos os conceitos essenciais da linguagem C#, compreendendo sua sintaxe, estruturas de controle de fluxo e manipulação de dados.
+* Fundamentos da Linguagem C#
 
-* Convenções C#: Aprendemos boas práticas e padrões de codificação, contribuindo para a criação de código mais legível e sustentável.
+* Convenções C#
 
-* Orientação a Objetos: Imersão nos princípios da programação orientada a objetos (POO), explorando a criação de classes, herança, polimorfismo e encapsulamento.
+* Orientação a Objetos
 
-* Testes Unitários no C#: Introdução aos testes unitários como uma prática essencial para garantir a qualidade do código, com foco na criação de testes para funções e métodos.
+* Testes Unitários no C#
 
 ## Desafios de Código
 Durante o Bootcamp desafios práticos consolidaram os conhecimentos adquiridos:
